@@ -1,4 +1,4 @@
-# Election Audit Analysis
+# Election Audit Analysis 
 ## Overview
 Seth and Tom had submitted the election audit results to the election commission but they required additional data to complete the data. These data include: the voter turnout for each county, the percentage of votes from each county out of the total count and the county with the highest voter turnout.
 
